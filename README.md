@@ -1,3 +1,22 @@
+> ⚠️ **ARCHIVED REPOSITORY**
+>
+> This repository has been **archived and is no longer actively maintained**.
+>
+> The work originally contained here has been **migrated, refactored, and
+> enhanced** as part of a unified internship repository that follows
+> industry-aligned project structure, documentation, and version control
+> practices.
+>
+>   <a href="https://github.com/atharmshaikh/data-analyst-internship-tasks/tree/main/Task-05_Exploratory-Data-Analysis-EDA">
+>     <img
+>       src="https://img.shields.io/badge/ACTIVE%20VERSION-Task%2005%20EDA-success?style=for-the-badge"
+>       alt="Active version of Task 05 Exploratory Data Analysis"
+>     />
+>   </a>
+>
+> This repository is preserved **strictly for historical reference**.
+
+
 # Titanic EDA - Task 5 
 
 ## 📌 Objective
